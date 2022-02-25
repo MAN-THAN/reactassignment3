@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import "./style1.css"
 
 class Feedback extends Component {
   constructor(props){

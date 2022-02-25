@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import "./style1.css";
-import {Link} from "react-router-dom";
+
 import Feedback from './Feedback';
 
 
